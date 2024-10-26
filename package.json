@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^12.0.1",
+    "learning-npm": "file:",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheroes": "^4.0.0"
+  },
+  "name": "learning-npm",
+  "version": "1.0.0",
+  "description": "I'm learning about npm",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prabhat Bhusal",
+  "license": "ISC"
+}
